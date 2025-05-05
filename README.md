@@ -1,12 +1,56 @@
-# React + Vite
+# 🎯 React Quiz App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the **React Quiz App** — a fun and interactive multiple-choice quiz application built with **ReactJS**. This project is perfect for beginners looking to practice core React concepts such as components, state, props, and conditional rendering.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📚 Table of Contents
 
-## Expanding the ESLint configuration
+- [✨ Features](#-features)
+- [📸 Preview](#-preview)
+- [🚀 Getting Started](#-getting-started)
+- [📁 Project Structure](#-project-structure)
+- [🛠️ Tech Stack](#️-tech-stack)
+- [📌 TODOs](#-todos)
+- [🧑‍💻 Contributing](#-contributing)
+- [🪪 License](#-license)
+- [🙏 Acknowledgements](#-acknowledgements)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Features
+
+✅ Multiple-choice questions  
+✅ Real-time score tracking  
+✅ Instant feedback after submission  
+✅ Final score summary  
+✅ Replay/Restart quiz functionality  
+✅ Clean and responsive UI
+
+---
+
+## 📸 Preview
+
+> _Add screenshots or a live demo link here when available._  
+> Example: [Live Demo](https://yourdemo.vercel.app)
+
+---
+
+## 🚀 Getting Started
+
+Follow these instructions to set up the project locally.
+
+### ✅ Prerequisites
+
+Make sure you have the following installed:
+
+- [Node.js](https://nodejs.org/) (v14+ recommended)
+- npm or [Yarn](https://yarnpkg.com/)
+
+### 🔧 Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/react-quiz-app.git
+   cd react-quiz-app
+
